@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Unity-iPhone.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>945DD7EBFC763C190A14B6B37D94E177FEC87473</string>
+				<key>dateExpires</key>
+				<string>26/09/22</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>945DD7EBFC763C190A14B6B37D94E177FEC87473</string>
+						<key>dateExpires</key>
+						<string>26/09/22</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Vuforia.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>99WFW77CV4</string>
+						<key>name</key>
+						<string>RSalesArm IT Services Private Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>945DD7EBFC763C190A14B6B37D94E177FEC87473</string>
+						<key>dateExpires</key>
+						<string>26/09/22</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>VuforiaDL.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>99WFW77CV4</string>
+						<key>name</key>
+						<string>RSalesArm IT Services Private Limited</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>99WFW77CV4.com.rsalesarm.glenmark.ar</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>99WFW77CV4</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>99WFW77CV4.com.rsalesarm.glenmark.ar</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>ar.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c59d1655-75c5-4a72-8442-c7b1844f2ecb</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.rsalesarm.glenmark.ar</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>99WFW77CV4</string>
+				<key>name</key>
+				<string>RSalesArm IT Services Private Limited</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
